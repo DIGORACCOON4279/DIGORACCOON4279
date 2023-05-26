@@ -52,5 +52,5 @@ Here are some ideas to get you started:
 ![Component 318](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/bdbccc56-966a-43f5-ad94-3493a4163211)
 
 
-![footer](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/43eef82d-81cb-4a07-ae49-d6eede40b324)
+![footer](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/7f8b5ae3-5a13-414d-a38e-d06eaafaff63)
 
