@@ -1,5 +1,4 @@
-![portada github 1](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/b4bd39b3-bffd-4d12-97eb-6d7f860c7918)
-
+![portada linkedIn](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/7b89ca38-4816-4c8e-89d8-b183614af8f0)
 
 ### Hi there 👋
 <!--
@@ -48,4 +47,9 @@ Here are some ideas to get you started:
 ![Vector-2](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/e8b33b35-05c8-4fcc-b302-d4ac6c818a4b)
 ![Vector-8](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/1904cd64-efae-4a67-b509-7b96c991d7f2)
 ![Vector-19](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/c585bf64-a55d-40f0-9822-b83a8f200bd3)
+
+
+![Component 318](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/226f6150-c862-4b2b-a3c6-217ee81167b3)
+
+
 
