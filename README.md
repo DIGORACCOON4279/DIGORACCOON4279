@@ -49,7 +49,8 @@ Here are some ideas to get you started:
 ![Vector-19](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/c585bf64-a55d-40f0-9822-b83a8f200bd3)
 
 
-![Component 318](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/226f6150-c862-4b2b-a3c6-217ee81167b3)
+![Component 318](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/bdbccc56-966a-43f5-ad94-3493a4163211)
 
 
+![footer](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/43eef82d-81cb-4a07-ae49-d6eede40b324)
 
