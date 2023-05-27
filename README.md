@@ -8,7 +8,7 @@
     
 <div align="center">
     <h2>About me🚀</h2>
-<div align="center">
+<div align="left">
     🔭 I’m currently working on some UX/UI developments and my portfolio </br>
 🌱 I’m currently learning UX/UI development, JS, and RoR </br>
 👯 I’m looking to collaborate on team work at development and design </br>
@@ -30,10 +30,10 @@
     💬 Ask me about my current projects
         <a style="color:green;" href="https://www.canva.com/design/DAEsDw2MN44/Qz8u92eqiV8Tdmnq5npKqg/view?website#1:resume-english">
             Resume
-        </a>
+        </a> </br>
         <a href="https://www.linkedin.com/in/diegomarinmora/">
             LinkedIn
-        </a>
+        </a> </br>
         <a href="https://www.behance.net/diegomarin21">
             Behance
          </a>
