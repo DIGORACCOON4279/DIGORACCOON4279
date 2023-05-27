@@ -27,4 +27,6 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/diegomarinmora/">
 <img src="https://www.flaticon.es/icono-gratis/linkedin_145807?term=linkedin&page=1&position=2&origin=search&related_id=145807">
 </a>
+
+
 ![footer](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/7f8b5ae3-5a13-414d-a38e-d06eaafaff63)
