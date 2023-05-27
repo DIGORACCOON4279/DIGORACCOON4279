@@ -8,13 +8,13 @@
     
 <div align="center">
     <h2>About me🚀</h2>
-<div align="left">
+<div align="center">
     🔭 I’m currently working on some UX/UI developments and my portfolio </br>
 🌱 I’m currently learning UX/UI development, JS, and RoR </br>
 👯 I’m looking to collaborate on team work at development and design </br>
 🤔 I’m looking for help with </br>
 
-😄 Pronouns: ...
+😄 Pronouns: ... </br>
 ⚡ Fun fact: ..
     </div>
     </div>
