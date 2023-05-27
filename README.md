@@ -3,7 +3,7 @@
 <di>
     <h1 align="center">Hi 👋, I´m Diego!!!</h1>
 
- I am a passionate of learning day to day new projects programming and designing . I like studying and updating on new tendencies, languages and tools, as every day there are lots of new stuff to learn in the technology field to be to the cutting edge industry
+ <p>I am a passionate of learning day to day new projects programming and designing . I like studying and updating on new tendencies, languages and tools, as every day there are lots of new stuff to learn in the technology field to be to the cutting edge industry</p>
 </di>
     
 <h2 align="center">About me🚀</h2>
