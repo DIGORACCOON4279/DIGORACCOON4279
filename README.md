@@ -30,11 +30,9 @@ Here are some ideas to get you started:
     </a>
     <a href="https://www.behance.net/diegomarin21" class="networks">
         <img src="" alt="" class="">   
-
     </a>
     <a href="https://www.canva.com/design/DAEsDw2MN44/Qz8u92eqiV8Tdmnq5npKqg/view?website#1:resume-english" class="networks">
         <img src="" alt="" class="">   
-
     </a>
 </div>
 
