@@ -1,12 +1,13 @@
 ![portada linkedIn](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/7b89ca38-4816-4c8e-89d8-b183614af8f0)
 
-<di>
+<di aling="center">
     <h1 align="center">Hi 👋, I´m Diego!!!</h1>
 
- <p>I am a passionate of learning day to day new projects programming and designing . I like studying and updating on new tendencies, languages and tools, as every day there are lots of new stuff to learn in the technology field to be to the cutting edge industry</p>
+ I am a passionate of learning day to day new projects programming and designing . I like studying and updating on new tendencies, languages and tools, as every day there are lots of new stuff to learn in the technology field to be to the cutting edge industry
 </di>
     
-<h2 align="center">About me🚀</h2>
+<div>
+    <h2>About me🚀</h2>
 
 - 🔭 I’m currently working on some UX/UI developments and my portfolio
 - 🌱 I’m currently learning UX/UI development, JS, and RoR
@@ -15,6 +16,7 @@
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ..
+    </div>
 
 <h2 align="center">Languages⚙ & Tools🛠</h2>
 
@@ -24,7 +26,7 @@
 
 <div align="center">
     <h2>How to reach me📫</h2>
-    <h3>💬 Ask me about my current projects>/h3>
+    💬 Ask me about my current projects
         <a href="https://www.canva.com/design/DAEsDw2MN44/Qz8u92eqiV8Tdmnq5npKqg/view?website#1:resume-english">
             Resume
         </a>
