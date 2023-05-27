@@ -1,20 +1,20 @@
 ![portada linkedIn](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/7b89ca38-4816-4c8e-89d8-b183614af8f0)
 
-<h1>Hello there!!!</h1>
+<h1>Hello there!!!👋</h1>
 
 
-### Hi there 👋
 <!--
 **DIGORACCOON4279/DIGORACCOON4279** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning UX/UI development, JS, and RoR
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...!
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about my current projects
+- 📫 How to reach me: 
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ..
 -->
@@ -24,5 +24,9 @@ Here are some ideas to get you started:
 
 ![Component 318](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/bdbccc56-966a-43f5-ad94-3493a4163211)
 
-
+<div class="social-media">
+    <a href="https://www.link.com" class="networks"></a>
+    <a href="" class="networks"></a>
+    <a href="" class="networks"></a>
+</div>
 ![footer](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/7f8b5ae3-5a13-414d-a38e-d06eaafaff63)
