@@ -1,11 +1,12 @@
 ![portada linkedIn](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/7b89ca38-4816-4c8e-89d8-b183614af8f0)
 
-
+</br></br></br></br>
 <div aling="center">
     <h1 align="center">Hi 👋, I´m Diego!!!</h1>
 <p align="center">I am a passionate of learning day to day new projects programming and designing . I like studying and updating on new tendencies, languages and tools, as every day there are lots of new stuff to learn in the technology field to be to the cutting edge industry</p>
 </div>
-    
+</br></br></br></br>
+
 <div align="center">
     <h2>About me🚀</h2>
     <div align="left">
@@ -15,12 +16,14 @@
         📫 How to reach me [dilema4000@gmail.com]
     </div>
 </div>
+</br></br></br></br>
 
 <h2 align="center">Languages & Tools🛠</h2>
 
 ![knowledge](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/cbbb2a0b-e602-4173-a6be-eca7d52124b6)
 
 ![Component 318](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/bdbccc56-966a-43f5-ad94-3493a4163211)
+</br></br></br></br>
 
 <div align="center">
     <h2>Social Media📱</h2>
