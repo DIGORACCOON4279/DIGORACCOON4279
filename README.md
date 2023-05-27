@@ -1,23 +1,18 @@
 ![portada linkedIn](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/7b89ca38-4816-4c8e-89d8-b183614af8f0)
 
-<h1 align="center">Hello there!!!👋</h1>
+<h1 align="center">Hi 👋, I´m Diego!!!</h1>
 
-
-<!--
 **DIGORACCOON4279/DIGORACCOON4279** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2 align="center">About me🚀</h2>
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on some UX/UI developments and my portfolio
 - 🌱 I’m currently learning UX/UI development, JS, and RoR
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...!
-- 💬 Ask me about my current projects
-- 📫 How to reach me: 
+- 👯 I’m looking to collaborate on team work at development and design
+- 🤔 I’m looking for help with 
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ..
--->
 
 <h2 align="center">Languages⚙ & Tools🛠</h2>
 
@@ -26,15 +21,16 @@ Here are some ideas to get you started:
 ![Component 318](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/bdbccc56-966a-43f5-ad94-3493a4163211)
 
 <div align="center">
-    <h2>Social Media💻</h2>
+    <h2>How to reach me📫</h2>
+    <h3>💬 Ask me about my current projects>/h3>
         <a href="https://www.canva.com/design/DAEsDw2MN44/Qz8u92eqiV8Tdmnq5npKqg/view?website#1:resume-english">
-            Resume<img src="">
+            Resume
         </a>
         <a href="https://www.linkedin.com/in/diegomarinmora/">
-            LinkedIn<img src="">
+            LinkedIn
         </a>
         <a href="https://www.behance.net/diegomarin21">
-            Behance<img src="">
+            Behance
         </a>
 </div>
 
