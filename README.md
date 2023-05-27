@@ -32,7 +32,7 @@
 </br>
 
 <div align="center">
-    <h2><b>You can find me📱</b></h2>
+    <h2><strong>You can find me📱</strong></h2>
         Ask me about my current projects </br>
         <a style="color:green;" href="https://www.canva.com/design/DAEsDw2MN44/Qz8u92eqiV8Tdmnq5npKqg/view?website#1:resume-english">
             <b>📋Resume</b>
