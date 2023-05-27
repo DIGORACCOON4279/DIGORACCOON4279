@@ -12,14 +12,14 @@
     🔭 I’m currently working on some UX/UI developments and my portfolio </br>
 🌱 I’m currently learning UX/UI development, JS, and RoR </br>
 👯 I’m looking to collaborate on team work at development and design </br>
-🤔 I’m looking for help with </br>
+🤔 I’m looking for help with </br> </br>
 
 😄 Pronouns: ... </br>
 ⚡ Fun fact: ..
     </div>
     </div>
 
-<h2 align="center">Languages⚙ & Tools🛠</h2>
+<h2 align="center">Languages & Tools🛠</h2>
 
 ![knowledge](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/cbbb2a0b-e602-4173-a6be-eca7d52124b6)
 
