@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 
 ![Component 318](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/bdbccc56-966a-43f5-ad94-3493a4163211)
 
-<div class="social-media">
-    <a href="https://www.linkedin.com/in/diegomarinmora/" class="linkedin">
+<a href="https://www.linkedin.com/in/diegomarinmora/" class="linkedin">
         <img src="" alt="" class="">   
     </a>
     <a href="https://www.behance.net/diegomarin21" class="networks">
@@ -34,7 +33,7 @@ Here are some ideas to get you started:
     <a href="https://www.canva.com/design/DAEsDw2MN44/Qz8u92eqiV8Tdmnq5npKqg/view?website#1:resume-english" class="networks">
         <img src="" alt="" class="">   
     </a>
-</div>
+
 
 
 ![footer](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/7f8b5ae3-5a13-414d-a38e-d06eaafaff63)
