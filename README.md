@@ -8,16 +8,17 @@
     
 <div align="center">
     <h2>About me🚀</h2>
-<div align="left">
+    <div align="left">
     🔭 I’m currently working on some UX/UI developments and my portfolio </br>
 🌱 I’m currently learning UX/UI development, JS, and RoR </br>
 👯 I’m looking to collaborate on team work at development and design </br>
-🤔 I’m looking for help with </br> </br>
+🤔 I’m looking for help with </br>
+📫 How to reach me </br> </br>
 
 😄 Pronouns: ... </br>
 ⚡ Fun fact: ..
     </div>
-    </div>
+</div>
 
 <h2 align="center">Languages & Tools🛠</h2>
 
@@ -26,7 +27,7 @@
 ![Component 318](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/bdbccc56-966a-43f5-ad94-3493a4163211)
 
 <div align="center">
-    <h2>How to reach me📫</h2>
+    <h2>Social Media📱</h2>
     💬 Ask me about my current projects </br>
         <a style="color:green;" href="https://www.canva.com/design/DAEsDw2MN44/Qz8u92eqiV8Tdmnq5npKqg/view?website#1:resume-english">
             Resume
