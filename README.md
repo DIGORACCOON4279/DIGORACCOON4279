@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ![Component 318](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/bdbccc56-966a-43f5-ad94-3493a4163211)
 
-<a href="https://www.linkedin.com/in/diegomarinmora/" target="_blank">
+<a href="https://www.linkedin.com/in/diegomarinmora/">LinkedIn
 <img src="https://iconos8.es/icon/xuvGCOXi8Wyg/linkedin">
 </a>
 
