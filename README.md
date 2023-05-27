@@ -1,4 +1,4 @@
-</br></br></br>
+</br></br>
 ![portada linkedIn](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/7b89ca38-4816-4c8e-89d8-b183614af8f0)
 
 </br>
