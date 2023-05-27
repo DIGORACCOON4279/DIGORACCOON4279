@@ -1,6 +1,6 @@
 ![portada linkedIn](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/7b89ca38-4816-4c8e-89d8-b183614af8f0)
 
-<h1>Hello there!!!👋</h1>
+<h1 align="center">Hello there!!!👋</h1>
 
 
 <!--
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ..
 -->
 
-<h2>Languages⚙ & Tools🛠</h2>
+<h2 align="center">Languages⚙ & Tools🛠</h2>
 
 ![knowledge](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/cbbb2a0b-e602-4173-a6be-eca7d52124b6)
 
@@ -27,14 +27,14 @@ Here are some ideas to get you started:
 
 <div align="center">
     <h2>Social Media💻</h2>
-        <a href="https://www.canva.com/design/DAEsDw2MN44/Qz8u92eqiV8Tdmnq5npKqg/view?              utm_content=DAEsDw2MN44&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
-            Resume
+        <a href="https://www.canva.com/design/DAEsDw2MN44/Qz8u92eqiV8Tdmnq5npKqg/view?website#1:resume-english">
+            Resume<img src="">
         </a>
         <a href="https://www.linkedin.com/in/diegomarinmora/">
-            LinkedIn
+            LinkedIn<img src="">
         </a>
         <a href="https://www.behance.net/diegomarin21">
-            Behance
+            Behance<img src="">
         </a>
 </div>
 
