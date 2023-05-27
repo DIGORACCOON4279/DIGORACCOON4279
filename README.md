@@ -1,6 +1,6 @@
 ![portada linkedIn](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/7b89ca38-4816-4c8e-89d8-b183614af8f0)
 
-<h1>Hello there!!!👋</h1>/
+<h1>Hello there!!!👋</h1>
 
 
 <!--
@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 ![Component 318](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/bdbccc56-966a-43f5-ad94-3493a4163211)
 
+<h2>Social Media💻</h2>
 <a href="https://www.linkedin.com/in/diegomarinmora/">LinkedIn
 <img src="https://iconos8.es/icon/xuvGCOXi8Wyg/linkedin">
 </a>
