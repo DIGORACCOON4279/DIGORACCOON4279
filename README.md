@@ -27,7 +27,7 @@
 <div align="center">
     <h2>How to reach me📫</h2>
     💬 Ask me about my current projects
-        <a href="https://www.canva.com/design/DAEsDw2MN44/Qz8u92eqiV8Tdmnq5npKqg/view?website#1:resume-english">
+        <a style="color:green;" href="https://www.canva.com/design/DAEsDw2MN44/Qz8u92eqiV8Tdmnq5npKqg/view?website#1:resume-english">
             Resume
         </a>
         <a href="https://www.linkedin.com/in/diegomarinmora/">
