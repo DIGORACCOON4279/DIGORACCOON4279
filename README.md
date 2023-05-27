@@ -28,13 +28,13 @@ Here are some ideas to get you started:
 <div>
     <h2>Social Media💻</h2>
         <a href="">
-            <img src="">
+            Resume<img src="">
         </a>
         <a href="https://www.linkedin.com/in/diegomarinmora/">
-            <img src="">
+            LinkedIn<img src="">
         </a>
         <a href="https://www.behance.net/diegomarin21">
-            <img src="">
+            Behance<img src="">
         </a>
 </div>
 
