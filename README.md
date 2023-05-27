@@ -9,7 +9,7 @@
 </br>
 
 <div align="center">
-    <h2><b>📋About me🚀</b></h2>
+    <h2>About me🚀</h2>
     <div align="left">
         🔭 I’m currently working on some UX/UI developments and my portfolio </br></br>
         🌱 I’m currently learning UX/UI development, JS, and RoR </br></br>
