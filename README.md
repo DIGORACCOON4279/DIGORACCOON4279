@@ -27,14 +27,14 @@ Here are some ideas to get you started:
 
 <div>
     <h2>Social Media💻</h2>
-        <a href="https://www.canva.com/design/DAEsDw2MN44/Qz8u92eqiV8Tdmnq5npKqg/view?utm_content=DAEsDw2MN44&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
-            Resume<img src="">
+        <a href="https://www.canva.com/design/DAEsDw2MN44/Qz8u92eqiV8Tdmnq5npKqg/view?              utm_content=DAEsDw2MN44&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
+            Resume
         </a>
         <a href="https://www.linkedin.com/in/diegomarinmora/">
-            LinkedIn<img src="">
+            LinkedIn
         </a>
         <a href="https://www.behance.net/diegomarin21">
-            Behance<img src="">
+            Behance
         </a>
 </div>
 
