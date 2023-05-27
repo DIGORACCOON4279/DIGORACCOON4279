@@ -23,14 +23,21 @@ Here are some ideas to get you started:
 
 ![knowledge](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/cbbb2a0b-e602-4173-a6be-eca7d52124b6)
 
-
-
 ![Component 318](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/bdbccc56-966a-43f5-ad94-3493a4163211)
 
-<h2>Social Media💻</h2>
-<a href="https://www.linkedin.com/in/diegomarinmora/">LinkedIn
-<img src="https://iconos8.es/icon/xuvGCOXi8Wyg/linkedin">
-</a>
+<div>
+    <h2>Social Media💻</h2>
+        <a href="">
+            <img src="">
+        </a>
+        <a href="https://www.linkedin.com/in/diegomarinmora/">
+            <img src="">
+        </a>
+        <a href="https://www.behance.net/diegomarin21">
+            <img src="">
+        </a>
+</div>
+
 
 
 ![footer](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/7f8b5ae3-5a13-414d-a38e-d06eaafaff63)
