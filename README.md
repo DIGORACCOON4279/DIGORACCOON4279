@@ -4,7 +4,7 @@
 </br>
 <div aling="center">
     <h1 align="center"><b>Hi 👋, I´m Diego!!!</b></h1>
-<p align="center">I´m a UX/UI developer and RoR Web developer;therefore,  I´m a passionate of learning day to day programming and designing user centered interfaces. I like studying and updating on new tendencies, programming languages and tools, as every day there are lots of new stuff to learn in the technology field to be to the cutting edge industry</p>
+<p align="center">I´m a UX/UI developer and RoR Web developer; therefore,  I´m a passionate of learning day to day programming and designing user centered interfaces. I like studying and updating on new tendencies, programming languages and tools, as every day there are lots of new stuff to learn in the technology field to be to the cutting edge industry</p>
 </div>
 </br>
 
