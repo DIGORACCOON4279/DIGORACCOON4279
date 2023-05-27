@@ -8,7 +8,7 @@
     
 <div align="center">
     <h2>About me🚀</h2>
-
+<div align="left">
 🔭 I’m currently working on some UX/UI developments and my portfolio
 🌱 I’m currently learning UX/UI development, JS, and RoR
 👯 I’m looking to collaborate on team work at development and design
@@ -16,6 +16,7 @@
 
 😄 Pronouns: ...
 ⚡ Fun fact: ..
+    </div>
     </div>
 
 <h2 align="center">Languages⚙ & Tools🛠</h2>
