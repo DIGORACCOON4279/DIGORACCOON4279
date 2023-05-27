@@ -15,13 +15,17 @@
         🌱 I’m currently learning UX/UI development, JS, and RoR </br>
         👯 I’m looking to collaborate on work team in development and design </br>
         📫 How to reach me [dilema4000@gmail.com]
-        ![Component 318](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/bdbccc56-966a-43f5-ad94-3493a4163211)
-    </div>
+        
+ ![Component 318](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/bdbccc56-966a-43f5-ad94-3493a4163211)
+        
+   </div>
 </div>
 </br></br>
 
 <h2 align="center">Languages & Tools🛠</h2>
+
 ![knowledge](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/cbbb2a0b-e602-4173-a6be-eca7d52124b6)
+
 </br></br>
 
 <div align="center">
