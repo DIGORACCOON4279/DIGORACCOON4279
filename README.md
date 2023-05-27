@@ -3,19 +3,19 @@
 <di aling="center">
     <h1 align="center">Hi 👋, I´m Diego!!!</h1>
 
- I am a passionate of learning day to day new projects programming and designing . I like studying and updating on new tendencies, languages and tools, as every day there are lots of new stuff to learn in the technology field to be to the cutting edge industry
+ <p align="center">I am a passionate of learning day to day new projects programming and designing . I like studying and updating on new tendencies, languages and tools, as every day there are lots of new stuff to learn in the technology field to be to the cutting edge industry</p>
 </di>
     
-<div>
+<div align="center">
     <h2>About me🚀</h2>
 
-- 🔭 I’m currently working on some UX/UI developments and my portfolio
-- 🌱 I’m currently learning UX/UI development, JS, and RoR
-- 👯 I’m looking to collaborate on team work at development and design
-- 🤔 I’m looking for help with 
+🔭 I’m currently working on some UX/UI developments and my portfolio
+🌱 I’m currently learning UX/UI development, JS, and RoR
+👯 I’m looking to collaborate on team work at development and design
+🤔 I’m looking for help with 
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ..
+😄 Pronouns: ...
+⚡ Fun fact: ..
     </div>
 
 <h2 align="center">Languages⚙ & Tools🛠</h2>
