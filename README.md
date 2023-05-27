@@ -13,7 +13,7 @@
 🌱 I’m currently learning UX/UI development, JS, and RoR </br>
 👯 I’m looking to collaborate on work team in development and design </br>
 🤔 I’m looking for help with </br>
-📫 How to reach me *dilema4000@gmail.com*
+📫 How to reach me [Email](dilema4000@gmail.com)
     </div>
 </div>
 
