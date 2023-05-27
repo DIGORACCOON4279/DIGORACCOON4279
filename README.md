@@ -1,9 +1,11 @@
 ![portada linkedIn](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/7b89ca38-4816-4c8e-89d8-b183614af8f0)
 
-<h1 align="center">Hi 👋, I´m Diego!!!</h1>
+<di>
+    <h1 align="center">Hi 👋, I´m Diego!!!</h1>
 
-**DIGORACCOON4279/DIGORACCOON4279** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ I am a passionate of learning day to day new projects programming and designing . I like studying and updating on new tendencies, languages and tools, as every day there are lots of new stuff to learn in the technology field to be to the cutting edge industry
+</di>
+    
 <h2 align="center">About me🚀</h2>
 
 - 🔭 I’m currently working on some UX/UI developments and my portfolio
