@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <div>
     <h2>Social Media💻</h2>
-        <a href="">
+        <a href="https://www.canva.com/design/DAEsDw2MN44/Qz8u92eqiV8Tdmnq5npKqg/view?utm_content=DAEsDw2MN44&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
             Resume<img src="">
         </a>
         <a href="https://www.linkedin.com/in/diegomarinmora/">
@@ -37,7 +37,6 @@ Here are some ideas to get you started:
             Behance<img src="">
         </a>
 </div>
-
 
 
 ![footer](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/7f8b5ae3-5a13-414d-a38e-d06eaafaff63)
