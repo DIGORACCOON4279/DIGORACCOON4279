@@ -21,7 +21,7 @@
    </div>
 </div>
 
-
+</br>
 <h2 align="center">Languages & Tools🛠</h2>
 
 ![knowledge](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/cbbb2a0b-e602-4173-a6be-eca7d52124b6)
