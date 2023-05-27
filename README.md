@@ -27,7 +27,7 @@
 
 <div align="center">
     <h2>How to reach me📫</h2>
-    💬 Ask me about my current projects
+    💬 Ask me about my current projects </br>
         <a style="color:green;" href="https://www.canva.com/design/DAEsDw2MN44/Qz8u92eqiV8Tdmnq5npKqg/view?website#1:resume-english">
             Resume
         </a> </br>
