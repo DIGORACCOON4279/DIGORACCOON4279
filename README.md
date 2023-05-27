@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ![Component 318](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/bdbccc56-966a-43f5-ad94-3493a4163211)
 
-[Resume - Diego Marín.pdf](https://github.com/DIGORACCOON4279/DIGORACCOON4279/files/11580652/Resume.-.Diego.Marin.pdf)
-
+<a href="https://github.com/DIGORACCOON4279/DIGORACCOON4279/files/11580652/Resume.-.Diego.Marin.pdf)
+">
 
 ![footer](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/7f8b5ae3-5a13-414d-a38e-d06eaafaff63)
