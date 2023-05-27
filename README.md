@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ![Component 318](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/bdbccc56-966a-43f5-ad94-3493a4163211)
 
-<div>
+<div align="center">
     <h2>Social Media💻</h2>
         <a href="https://www.canva.com/design/DAEsDw2MN44/Qz8u92eqiV8Tdmnq5npKqg/view?              utm_content=DAEsDw2MN44&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
             Resume
