@@ -19,7 +19,7 @@
     
 </br>
     
-![skills github 2](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/236a3edd-e69d-446e-af95-db8e5079ffbe)
+![skills github 2](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/915a9fd1-170d-4dd6-955a-2497e4f58416)
 
 </div>
 
