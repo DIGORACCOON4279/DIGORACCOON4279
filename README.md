@@ -18,8 +18,8 @@
     </div>
     
 </br>
-    
-![skills 3](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/6160cf58-8c47-47c0-80fd-058930370a03)
+
+![skills 3](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/769838a9-9c84-47e6-9765-499f49ba1dc7)
 
 </div>
 
