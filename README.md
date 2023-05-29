@@ -38,7 +38,7 @@
             <b>📋Resume</b>
         </a> </br>
         <a href="https://www.linkedin.com/in/diegomarinmora/">
-            <b>👨‍🎓LinkedI</b>
+            <b>👨‍🎓LinkedIn</b>
         </a> </br>
         <a href="https://www.behance.net/diegomarin21">
              <b>🎨Behance</b>
