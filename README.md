@@ -19,7 +19,7 @@
     
 </br>
     
-![skills github 2](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/b913a562-f6b8-4dee-a04a-b27d54e0d19a)
+![skills github 2](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/e4ccb8ca-96fd-4ac5-b50b-80b8773b2b8d)
 
 </div>
 
@@ -27,7 +27,7 @@
 
 <h2 align="center"><b>Languages & Tools🛠</b></h2>
 
-![skills github 2](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/69ebe188-340e-4160-ab4a-6a082e668f8b)
+![skills github 1](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/ad1e5ce1-c493-44b8-bea1-49eeccf9be01)
 
 </br>
 
