@@ -19,7 +19,7 @@
     
 </br>
     
-![Component 318](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/bdbccc56-966a-43f5-ad94-3493a4163211)
+![skills github 2](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/b913a562-f6b8-4dee-a04a-b27d54e0d19a)
 
 </div>
 
@@ -27,7 +27,7 @@
 
 <h2 align="center"><b>Languages & Tools🛠</b></h2>
 
-![knowledge](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/cbbb2a0b-e602-4173-a6be-eca7d52124b6)
+![skills github 2](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/69ebe188-340e-4160-ab4a-6a082e668f8b)
 
 </br>
 
@@ -47,4 +47,4 @@
  
 </br>  
 
-![footer](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/7f8b5ae3-5a13-414d-a38e-d06eaafaff63)
+![footer github 1](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/34713c3e-9213-4309-80c0-7130733973f2)
