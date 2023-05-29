@@ -1,5 +1,5 @@
 </br></br>
-![portada linkedIn](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/7b89ca38-4816-4c8e-89d8-b183614af8f0)
+![portada github 2](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/b9a84d56-5350-436d-9c01-a030581be6e8)
 
 </br>
 <div aling="center">
