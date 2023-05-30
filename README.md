@@ -9,7 +9,7 @@
 </br>
 
 <div align="center">
-    <h2><b>About me😎</b></h2>
+    <h2><b>About me🧒</b></h2>
     <div align="left">
         🔭 I’m currently working on some UX/UI developments and my portfolio </br></br>
         🌱 I’m currently learning UX/UI development, JS, and RoR </br></br>
@@ -32,8 +32,8 @@
 </br>
 
 <div align="center">
-    <h2><b>You can find me📱</b></h2>
-        Ask me about my current projects   </br>
+    <h2><b>You can find me👁‍🗨</b></h2>
+        Ask me about my current projects💬</br>
         <a style="color:green;" href="https://www.canva.com/design/DAEsDw2MN44/Qz8u92eqiV8Tdmnq5npKqg/view?website#1:resume-english">
             <b>📋Resume</b>
         </a> </br>
