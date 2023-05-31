@@ -40,9 +40,13 @@
         <a href="https://www.linkedin.com/in/diegomarinmora/">
             <b>👨‍🎓LinkedIn</b>
         </a> </br>
+          <a href="https://my-portfolio-q78j-pyk2aao4x-digoraccoon4279.vercel.app/">
+             <b>💻Portfolio</b>
+         </a></br>
         <a href="https://www.behance.net/diegomarin21">
              <b>🎨Behance</b>
          </a>
+       
  </div>
  
 </br>  
