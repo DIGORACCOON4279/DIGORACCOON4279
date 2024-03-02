@@ -42,7 +42,7 @@
         <a href="https://www.linkedin.com/in/diegomarinmora/">
             <b>👨‍🎓LinkedIn</b>
         </a> </br>
-          <a href="https://my-portfolio-q78j.vercel.app/">
+          <a href="https://65e247fef6822d27af3fb846--portfolioraccoon.netlify.app/">
              <b>💻Portfolio</b>
          </a></br>
         <a href="https://www.behance.net/diegomarin21">
