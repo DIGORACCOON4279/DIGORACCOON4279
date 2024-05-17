@@ -36,7 +36,7 @@
 <div align="center">
     <h2><b>You can find me👁‍🗨</b></h2>
         Ask me about my current projects💬</br>
-        <a style="color:green;" href="https://github.com/DIGORACCOON4279/DIGORACCOON4279/files/15358073/resume.pdf" downloaded>
+        <a style="color:green;" href="https://github.com/DIGORACCOON4279/DIGORACCOON4279/files/15358073/resume.pdf">
             <b>📋Resume</b>
         </a> </br>
         <a href="https://www.linkedin.com/in/diegomarinmora/">
