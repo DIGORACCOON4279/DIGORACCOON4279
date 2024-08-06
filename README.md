@@ -43,12 +43,15 @@
             <b>👨‍🎓LinkedIn</b>
         </a> </br>
           <a href="https://portfolioraccoon.netlify.app/">
-             <b>💻Portfolio</b>
+             <b>💻Web Developer Portfolio</b>
          </a></br>
-        <a href="https://www.behance.net/diegomarin21">
+         <a href="https://design-portfolio-smoky.vercel.app/">
+             <b>🎨UX/Ui Designer Portfolio</b>
+         </a></br>
+         <a href="https://www.behance.net/diegomarin21">
              <b>🎨Behance</b>
-         </a>
-       
+         </a></br>
+    
  </div>
  
 </br>  
