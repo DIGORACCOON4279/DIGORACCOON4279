@@ -46,7 +46,7 @@
              <b>💻Web Developer Portfolio</b>
          </a></br>
          <a href="https://design-portfolio-smoky.vercel.app/">
-             <b>🎨UX/Ui Designer Portfolio</b>
+             <b>🎫UX/Ui Designer Portfolio</b>
          </a></br>
          <a href="https://www.behance.net/diegomarin21">
              <b>🎨Behance</b>
