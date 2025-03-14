@@ -10,7 +10,7 @@
 </div>
 </br>
 
-<div align="center">
+<div align="left">
     <h2><b>About me🧒</b></h2>
     <div align="left">
         🔭 I’m currently working on some UX/UI developments and my portfolio </br>
@@ -22,13 +22,13 @@
 
 </br>
 
-<h2 align="center"><b>Languages & Tools🛠</b></h2>
+<h2 align="left"><b>Languages & Tools🛠</b></h2>
 
 ![skills github 1](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/ad1e5ce1-c493-44b8-bea1-49eeccf9be01)
 
 </br>
 
-<div align="center">
+<div align="left">
     <h2><b>You can find me👁‍🗨</b></h2>
         Ask me about my current projects💬</br>
         <a style="color:green;" href="https://github.com/user-attachments/files/16515548/Resume.-.Diego.Marin.pdf">
