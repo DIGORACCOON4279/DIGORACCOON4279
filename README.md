@@ -4,7 +4,7 @@
 </br>
 <div>
     <h1 align="left"><b>Hi 👋, I´m Diego!!!</b></h1>
-<p align="center">I'm a UX/UI developer and RoR Web developer, driven by a passion for continuous learning in programming and designing user-centered interfaces. Recently, I've been delving into JavaScript and React, eager to expand my skill set and stay at the forefront of the industry. I thrive on staying updated with the latest trends, programming languages, and tools, as the ever-evolving nature of technology presents endless opportunities for growth and innovation.
+<p align="left">I'm a UX/UI developer and RoR Web developer, driven by a passion for continuous learning in programming and designing user-centered interfaces. Recently, I've been delving into JavaScript and React, eager to expand my skill set and stay at the forefront of the industry. I thrive on staying updated with the latest trends, programming languages, and tools, as the ever-evolving nature of technology presents endless opportunities for growth and innovation.
 
 </p>
 </div>
