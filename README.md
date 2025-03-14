@@ -18,11 +18,6 @@
         👯 I’m looking to collaborate on work team in development and design </br></br>
         📫 How to reach me *dilema4000@gmail.com*
     </div>
-    
-</br>
-
-![skills 3](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/769838a9-9c84-47e6-9765-499f49ba1dc7)
-
 </div>
 
 </br>
