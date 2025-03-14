@@ -2,7 +2,7 @@
 ![portada github 2](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/b9a84d56-5350-436d-9c01-a030581be6e8)
 
 </br>
-<div aling="center">
+<div>
     <h1 align="left"><b>Hi 👋, I´m Diego!!!</b></h1>
 <p align="center">I'm a UX/UI developer and RoR Web developer, driven by a passion for continuous learning in programming and designing user-centered interfaces. Recently, I've been delving into JavaScript and React, eager to expand my skill set and stay at the forefront of the industry. I thrive on staying updated with the latest trends, programming languages, and tools, as the ever-evolving nature of technology presents endless opportunities for growth and innovation.
 
