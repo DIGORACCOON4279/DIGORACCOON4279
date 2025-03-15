@@ -74,7 +74,7 @@
 </br>
 
 <div>
-  <h2>Links portfolios y redes profesionales<h2/></br>
+  <h2>Links portfolios y redes profesionales<h2/>
   <a href="https://www.linkedin.com/in/diegomarinmora/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -88,5 +88,4 @@
     <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
   </a>
 </div>
-
-</br>  
+  
