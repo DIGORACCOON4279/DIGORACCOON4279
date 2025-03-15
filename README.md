@@ -7,10 +7,11 @@
     <p align="left">I'm a UX/UI developer and RoR Web developer, driven by a passion for continuous learning in programming and designing user-centered interfaces. Recently, I've been           delving into JavaScript and React, eager to expand my skill set and stay at the forefront of the industry. I thrive on staying updated with the latest trends, programming                languages, and tools, as the ever-evolving nature of technology presents endless opportunities for growth and innovation.
     </p>
 </div>
+
 </br>
 
 <div align="left">
-    <h2><b>About me🧒</b></h2>
+    <h3><b>About me🧒</b></h3>
     <div align="left">
         🔭 I’m currently working on some UX/UI developments and my portfolio </br>
         🌱 I’m currently learning UX/UI development, JS, and RoR </br>
@@ -33,6 +34,8 @@
       <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
 </div>
 
+</br>
+
 <div>
     <h2>Gestión de proyectos y entornos de desarrollo</h2>
     <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Trello">
@@ -44,6 +47,8 @@
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
+
+</br>
 
 <div>
       <!-- Lenguajes y frameworks de desarrollo -->
@@ -67,12 +72,11 @@
 
 </div>
 
-
+</br>
 
 <div>
-
   <h2>Links portfolios y redes profesionales</h2>
-
+    
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/diegomarinmora/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -95,5 +99,3 @@
 </div>
 
 </br>  
-
-![footer github 1](https://github.com/DIGORACCOON4279/DIGORACCOON4279/assets/88150970/34713c3e-9213-4309-80c0-7130733973f2)
