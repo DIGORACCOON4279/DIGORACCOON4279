@@ -18,7 +18,7 @@
         👯 I’m looking to collaborate on work team in development and design </br>
         📫 How to reach me 
         <a href="mailto:dilema4000@gmail.com">
-            <img src="https://img.shields.io/badge/Gmail-dilema4000@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar un correo">
+            <img src="https://img.shields.io/static/v1?label=&message=dilema4000@gmail.com&color=D14836&style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar un correo">
         </a>
     </div>
 </div>
