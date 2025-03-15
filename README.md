@@ -15,7 +15,7 @@
 <div align="left">
     <h3><b>About me🧒</b></h3>
     <div align="left">
-        🔭 I’m currently working on some UX/UI developments and my portfolio </br>
+        🔭 I’m currently working on some UX/UI designs and Web development </br>
         🌱 I’m currently learning UX/UI development, JS, and RoR </br>
         👯 I’m looking to collaborate on work team in development and design </br>
         📫 How to reach me *dilema4000@gmail.com*
@@ -28,6 +28,7 @@
 
 <div>
       <h3>Herramientas de diseño UX/UI y prototipado</h3>
+---
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
       <img src="https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop">
       <img src="https://img.shields.io/badge/Illustrator-FF7C00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator">
