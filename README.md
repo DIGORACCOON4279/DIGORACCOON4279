@@ -27,8 +27,7 @@
 ---
 
 <div>
-      <h3>Herramientas de diseño UX/UI y prototipado</h3>
-      </br>
+      <h3>Herramientas de diseño UX/UI y prototipado</h3></br>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
       <img src="https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop">
       <img src="https://img.shields.io/badge/Illustrator-FF7C00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator">
