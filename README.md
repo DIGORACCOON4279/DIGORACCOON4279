@@ -35,6 +35,7 @@
       <img src="https://img.shields.io/badge/Whimsical-9933FF?style=for-the-badge&logo=whimsical&logoColor=white" alt="Whimsical">
       <img src="https://img.shields.io/badge/Justinmind-2A7DE1?style=for-the-badge&logo=justinmind&logoColor=white" alt="Justinmind">
       <img src="https://img.shields.io/badge/Balsamiq-A60000?style=for-the-badge&logo=balsamiq&logoColor=white" alt="Balsamiq">
+      <img src="https://img.shields.io/badge/Genially-FF4D97?style=for-the-badge&logo=genially&logoColor=white" alt="Genially">
       <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
 </div>
 
