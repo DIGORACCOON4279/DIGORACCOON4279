@@ -65,7 +65,7 @@
 </br>
 
 <div>
-    <h3>Bases de datos</h3></br>
+    <h2>Bases de datos</h2></br>
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
     <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
@@ -75,22 +75,15 @@
 
 <div>
   <h2>Links portfolios y redes profesionales<h2/></br>
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/diegomarinmora/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-
-  <!-- Portfolio Web Developer -->
   <a href="https://portfolioraccoon.netlify.app/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Web%20Developer-000000?style=for-the-badge" alt="Web Developer">
   </a>
-
-  <!-- Portfolio UX/UI Designer -->
   <a href="https://design-portfolio-smoky.vercel.app/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/UX%2FUI%20Designer-6E57E0?style=for-the-badge" alt="UX/UI Designer">
   </a>
-
-  <!-- Behance -->
   <a href="https://www.behance.net/diegomarin21" target="_blank">
     <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
   </a>
