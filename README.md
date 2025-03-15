@@ -28,6 +28,7 @@
 <div>
       <h2>Herramientas de diseño UX/UI y prototipado</h2></br>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+      <img src="https://img.shields.io/badge/Photopea-18A497?style=for-the-badge&logo=photopea&logoColor=white" alt="Photopea">
       <img src="https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop">
       <img src="https://img.shields.io/badge/Illustrator-FF7C00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator">
       <img src="https://img.shields.io/badge/Optimal%20Workshop-FFD500?style=for-the-badge&logo=optimal-workshop&logoColor=black" alt="Optimal Workshop">
