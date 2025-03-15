@@ -10,6 +10,8 @@
 
 </br>
 
+---
+
 <div align="left">
     <h3><b>About me🧒</b></h3>
     <div align="left">
@@ -21,6 +23,8 @@
 </div>
 
 </br>
+
+---
 
 <div>
       <h3>Herramientas de diseño UX/UI y prototipado</h3>
@@ -36,6 +40,8 @@
 
 </br>
 
+---
+
 <div>
     <h3>Gestión de proyectos y entornos de desarrollo</h3>
     <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Trello">
@@ -50,6 +56,8 @@
 
 </br>
 
+---
+
 <div>
       <h3>Lenguajes y frameworks de desarrollo</h3>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -63,6 +71,8 @@
 </div>
 
 </br>
+
+---
 
 <div>
     <h3>Bases de datos</h3>
