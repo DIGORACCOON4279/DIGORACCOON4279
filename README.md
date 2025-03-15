@@ -13,7 +13,7 @@
 ---
 
 <div align="left">
-    <h3><b>About me🧒</b></h3>
+    <h2><b>About me🧒</b></h2>
     <div align="left">
         🔭 I’m currently working on some UX/UI designs and Web development </br>
         🌱 I’m currently learning JS, React, Ruby, and RoR </br>
