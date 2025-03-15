@@ -16,7 +16,7 @@
         🔭 I’m currently working on some UX/UI designs and Web development </br>
         🌱 I’m currently learning JS, React, Ruby, and RoR </br>
         👯 I’m looking to collaborate on work team in development and design </br>
-        📫 How to reach me *dilema4000@gmail.com*
+        📫 How to reach me [![Gmail](https://img.shields.io/badge/Gmail-dilema4000%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dilema4000@gmail.com)
     </div>
 </div>
 
