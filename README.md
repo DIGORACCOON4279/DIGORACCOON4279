@@ -10,8 +10,6 @@
 
 </br>
 
----
-
 <div align="left">
     <h2><b>About me🧒</b></h2>
     <div align="left">
@@ -23,8 +21,6 @@
 </div>
 
 </br>
-
----
 
 <div>
       <h2>Herramientas de diseño UX/UI y prototipado</h2></br>
@@ -40,11 +36,8 @@
 
 </br>
 
----
-
 <div>
-    <h3>Gestión de proyectos y entornos de desarrollo</h3>
-    </br>
+    <h2>Gestión de proyectos y entornos de desarrollo</h2></br>
     <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Trello">
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
     <img src="https://img.shields.io/badge/Git%20Bash-3A3A3A?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Git Bash">
@@ -57,11 +50,8 @@
 
 </br>
 
----
-
 <div>
-      <h3>Lenguajes y frameworks de desarrollo</h3>
-      </br>
+      <h2>Lenguajes y frameworks de desarrollo</h2></br>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
@@ -74,11 +64,8 @@
 
 </br>
 
----
-
 <div>
-    <h3>Bases de datos</h3>
-    </br>
+    <h3>Bases de datos</h3></br>
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
     <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
@@ -86,11 +73,8 @@
 
 </br>
 
----
-
 <div>
-  <h3>Links portfolios y redes profesionales<h3/>
-  </br>
+  <h2>Links portfolios y redes profesionales<h2/></br>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/diegomarinmora/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
