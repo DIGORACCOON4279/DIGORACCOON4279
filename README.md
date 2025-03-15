@@ -17,7 +17,7 @@
         🌱 I’m currently learning JS, React, Ruby, and RoR </br>
         👯 I’m looking to collaborate on work team in development and design </br>
         📫 How to reach me </div></br>
-        [![Gmail](https://img.shields.io/badge/Gmail-dilema4000%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dilema4000@gmail.com)
+        [![Email](https://img.shields.io/badge/Gmail-dilema4000@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dilema4000@gmail.com)
     </div>
 </div>
 
