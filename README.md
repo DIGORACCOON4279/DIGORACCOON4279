@@ -25,6 +25,7 @@
 <div>
       <!--  Herramientas de diseño UX/UI y prototipado -->
       <h3>Herramientas de diseño UX/UI y prototipado</h3>
+    
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
       <img src="https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop">
       <img src="https://img.shields.io/badge/Illustrator-FF7C00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator">
@@ -40,6 +41,7 @@
 <div>
     <!-- Gestión de proyectos y entornos de desarrollo -->
     <h3>Gestión de proyectos y entornos de desarrollo</h3>
+    
     <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Trello">
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
     <img src="https://img.shields.io/badge/Git%20Bash-3A3A3A?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Git Bash">
@@ -55,6 +57,7 @@
 <div>
       <!-- Lenguajes y frameworks de desarrollo -->
       <h3>Lenguajes y frameworks de desarrollo</h3>
+    
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
@@ -69,7 +72,8 @@
 
 <div>
     <!-- Lenguajes y frameworks de desarrollo -->
-    <h3>Bases de datos</32>
+    <h3>Bases de datos</h3>
+    
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
     <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
